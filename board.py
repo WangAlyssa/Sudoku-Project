@@ -1,3 +1,4 @@
+import pygame
 from cell import Cell
 from sudoku_generator import generate_sudoku
 
